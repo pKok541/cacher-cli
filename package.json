@@ -1,6 +1,6 @@
 {
   "name": "cacher-cli",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "The command line interface to Cacher.",
   "main": "src/index.ts",
   "scripts": {
